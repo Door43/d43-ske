@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ske:home|Door43 (ske)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ske|d43-ske repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ske/archive/master.zip|d43-ske.zip]]
+
+**Recent Changes**
+{{changes>ns = ske}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ske|Ethnologue data]]
+
